@@ -1,0 +1,354 @@
+{
+    "data_extracao": "2024-11-20 00:42:37",
+    "numero_concurso": "135",
+    "premios": {
+        "premio_1": {
+            "ganhadores": [
+                {
+                    "cartela": "0178296",
+                    "localizacao": "Reg. Conj. Esperança"
+                },
+                {
+                    "cartela": "Cartelas",
+                    "localizacao": "Localização"
+                },
+                {
+                    "cartela": "0646381",
+                    "localizacao": "Reg. Caucaia"
+                },
+                {
+                    "cartela": "Cartelas",
+                    "localizacao": "Localização"
+                },
+                {
+                    "cartela": "0054312",
+                    "localizacao": "Reg. Conj. Ceará"
+                },
+                {
+                    "cartela": "Cartelas",
+                    "localizacao": "Bairro"
+                },
+                {
+                    "cartela": "0660797",
+                    "localizacao": "Reg. Centro"
+                },
+                {
+                    "cartela": "0060190",
+                    "localizacao": "Reg. Russas"
+                },
+                {
+                    "cartela": "0681235",
+                    "localizacao": "Reg. Maciço de Baturité"
+                },
+                {
+                    "cartela": "0452583",
+                    "localizacao": "Reg. São Cristovão"
+                },
+                {
+                    "cartela": "0300391",
+                    "localizacao": "Reg. Henrique Jorge"
+                },
+                {
+                    "cartela": "0348068",
+                    "localizacao": "Reg. Ipueiras"
+                },
+                {
+                    "cartela": "0113405",
+                    "localizacao": "Reg. Montese"
+                },
+                {
+                    "cartela": "0097459",
+                    "localizacao": "Reg. Caucaia"
+                },
+                {
+                    "cartela": "0464067",
+                    "localizacao": "Reg. Itapipoca"
+                },
+                {
+                    "cartela": "0097924",
+                    "localizacao": "Reg. São Cristovão"
+                },
+                {
+                    "cartela": "0208942",
+                    "localizacao": "Reg. Praia do Futruro"
+                },
+                {
+                    "cartela": "0290684",
+                    "localizacao": "Reg. Ellery"
+                },
+                {
+                    "cartela": "0056144",
+                    "localizacao": "Reg. Conjunto Esperança"
+                },
+                {
+                    "cartela": "0071468",
+                    "localizacao": "Reg. Beberibe"
+                },
+                {
+                    "cartela": "0195145",
+                    "localizacao": "Reg. Quixadá"
+                }
+            ],
+            "bolas_chamadas": [
+                "21",
+                "02",
+                "38",
+                "29",
+                "28",
+                "23",
+                "32",
+                "45",
+                "48",
+                "09",
+                "43",
+                "11",
+                "27",
+                "46",
+                "20",
+                "33",
+                "42",
+                "49",
+                "26",
+                "25",
+                "24",
+                "31",
+                "10",
+                "22",
+                "14",
+                "50",
+                "03",
+                "15",
+                "01",
+                "18",
+                "35",
+                "06",
+                "08"
+            ],
+            "quantidade_bolas": 33
+        },
+        "premio_2": {
+            "ganhadores": [
+                {
+                    "cartela": "0646381",
+                    "localizacao": "Reg. Caucaia"
+                },
+                {
+                    "cartela": "Cartelas",
+                    "localizacao": "Localização"
+                },
+                {
+                    "cartela": "0054312",
+                    "localizacao": "Reg. Conj. Ceará"
+                },
+                {
+                    "cartela": "Cartelas",
+                    "localizacao": "Bairro"
+                },
+                {
+                    "cartela": "0660797",
+                    "localizacao": "Reg. Centro"
+                },
+                {
+                    "cartela": "0060190",
+                    "localizacao": "Reg. Russas"
+                },
+                {
+                    "cartela": "0681235",
+                    "localizacao": "Reg. Maciço de Baturité"
+                },
+                {
+                    "cartela": "0452583",
+                    "localizacao": "Reg. São Cristovão"
+                },
+                {
+                    "cartela": "0300391",
+                    "localizacao": "Reg. Henrique Jorge"
+                },
+                {
+                    "cartela": "0348068",
+                    "localizacao": "Reg. Ipueiras"
+                },
+                {
+                    "cartela": "0113405",
+                    "localizacao": "Reg. Montese"
+                },
+                {
+                    "cartela": "0097459",
+                    "localizacao": "Reg. Caucaia"
+                },
+                {
+                    "cartela": "0464067",
+                    "localizacao": "Reg. Itapipoca"
+                },
+                {
+                    "cartela": "0097924",
+                    "localizacao": "Reg. São Cristovão"
+                },
+                {
+                    "cartela": "0208942",
+                    "localizacao": "Reg. Praia do Futruro"
+                },
+                {
+                    "cartela": "0290684",
+                    "localizacao": "Reg. Ellery"
+                },
+                {
+                    "cartela": "0056144",
+                    "localizacao": "Reg. Conjunto Esperança"
+                },
+                {
+                    "cartela": "0071468",
+                    "localizacao": "Reg. Beberibe"
+                },
+                {
+                    "cartela": "0195145",
+                    "localizacao": "Reg. Quixadá"
+                }
+            ],
+            "bolas_chamadas": [
+                "21",
+                "02",
+                "38",
+                "29",
+                "28",
+                "23",
+                "32",
+                "45",
+                "48",
+                "09",
+                "43",
+                "11",
+                "27",
+                "46",
+                "20",
+                "33",
+                "42",
+                "49",
+                "26",
+                "25",
+                "24",
+                "31",
+                "10",
+                "22",
+                "14",
+                "50",
+                "03",
+                "15",
+                "01",
+                "18",
+                "35",
+                "06",
+                "08"
+            ],
+            "quantidade_bolas": 33
+        },
+        "premio_3": {
+            "ganhadores": [
+                {
+                    "cartela": "0054312",
+                    "localizacao": "Reg. Conj. Ceará"
+                },
+                {
+                    "cartela": "Cartelas",
+                    "localizacao": "Bairro"
+                },
+                {
+                    "cartela": "0660797",
+                    "localizacao": "Reg. Centro"
+                },
+                {
+                    "cartela": "0060190",
+                    "localizacao": "Reg. Russas"
+                },
+                {
+                    "cartela": "0681235",
+                    "localizacao": "Reg. Maciço de Baturité"
+                },
+                {
+                    "cartela": "0452583",
+                    "localizacao": "Reg. São Cristovão"
+                },
+                {
+                    "cartela": "0300391",
+                    "localizacao": "Reg. Henrique Jorge"
+                },
+                {
+                    "cartela": "0348068",
+                    "localizacao": "Reg. Ipueiras"
+                },
+                {
+                    "cartela": "0113405",
+                    "localizacao": "Reg. Montese"
+                },
+                {
+                    "cartela": "0097459",
+                    "localizacao": "Reg. Caucaia"
+                },
+                {
+                    "cartela": "0464067",
+                    "localizacao": "Reg. Itapipoca"
+                },
+                {
+                    "cartela": "0097924",
+                    "localizacao": "Reg. São Cristovão"
+                },
+                {
+                    "cartela": "0208942",
+                    "localizacao": "Reg. Praia do Futruro"
+                },
+                {
+                    "cartela": "0290684",
+                    "localizacao": "Reg. Ellery"
+                },
+                {
+                    "cartela": "0056144",
+                    "localizacao": "Reg. Conjunto Esperança"
+                },
+                {
+                    "cartela": "0071468",
+                    "localizacao": "Reg. Beberibe"
+                },
+                {
+                    "cartela": "0195145",
+                    "localizacao": "Reg. Quixadá"
+                }
+            ],
+            "bolas_chamadas": [
+                "21",
+                "02",
+                "38",
+                "29",
+                "28",
+                "23",
+                "32",
+                "45",
+                "48",
+                "09",
+                "43",
+                "11",
+                "27",
+                "46",
+                "20",
+                "33",
+                "42",
+                "49",
+                "26",
+                "25",
+                "24",
+                "31",
+                "10",
+                "22",
+                "14",
+                "50",
+                "03",
+                "15",
+                "01",
+                "18",
+                "35",
+                "06",
+                "08"
+            ],
+            "quantidade_bolas": 33
+        }
+    }
+}

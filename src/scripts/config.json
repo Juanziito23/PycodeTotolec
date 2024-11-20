@@ -1,0 +1,6 @@
+{
+    "smtp_server": "smtp.titan.email",
+    "smtp_port": 587,
+    "email_user": "amigodoce@kayben.com.br",
+    "email_password": "Suportedigt@1"
+}
